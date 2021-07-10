@@ -2,7 +2,7 @@
 
 ## About 
 Calculates bulk distances between points in geographical coordinates (ϕ,λ) using:
-- Haversine](https://en.wikipedia.org/wiki/Haversine_formula) formula 
+- [Haversine](https://en.wikipedia.org/wiki/Haversine_formula) formula 
 - Geodesic distance using WGS84 ellipsoid
 
 
